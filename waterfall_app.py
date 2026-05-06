@@ -6,14 +6,6 @@ st.title("PE Priority Cascade: Proposed Hierarchy")
 st.markdown("Toggle the NLP flags on the left. Watch the logic flow on the right.")
 st.divider()
 
-import streamlit as st
-import graphviz
-
-st.set_page_config(page_title="PE NLP Final Architecture", layout="wide")
-st.title("🌊 PE Priority Cascade: Final Architecture")
-st.markdown("Features: **Global Critical Bypass**, **Split-Limitations**, and **Entity-Level Contradiction Safety**.")
-st.divider()
-
 # ==========================================
 # 1. UI LAYOUT
 # ==========================================
